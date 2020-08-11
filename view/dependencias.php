@@ -18,24 +18,22 @@
 
 <!-- Folha de Estilo(CSS) - Direta -->
 <style type="text/css">
+	body {
+		margin: 0;
+		background-color: #ffffff;
+	}
 
-body {
-	margin: 0;
-	background-color: #ffffff;
-}
+	* {
+		font-family: 'Open Sans', sans-serif;
+	}
 
-* {
-	font-family: 'Open Sans', sans-serif;
-}
+	h2 {
+		font-family: 'Open Sans', sans-serif;
+	}
 
-h2 {
-	font-family: 'Open Sans', sans-serif;
-}
-
-.thead {
-	background-color: #f7f7f7;
-}
-
+	.thead {
+		background-color: #f7f7f7;
+	}
 </style>
 
 <!-- CDN's - JQuery e JQueryMask - Caso Seja Necessário, incluir na Página.
