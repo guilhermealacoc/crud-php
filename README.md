@@ -1,2 +1,2 @@
 # crud-php
-A simple CRUD application with pure PHP OOP
+Aplicação de CRUD simples com PHP para estudo de boas práticas e padrões de código.
